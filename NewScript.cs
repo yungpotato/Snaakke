@@ -2,7 +2,7 @@ using Godot;
 using System;
 using System.Numerics;
 
-public partial class SimpleMover: Node2D
+public partial class Newscript : Node2D
 {
 	//public static int number = 1;
 	//public static int lower = 0;
